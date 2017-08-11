@@ -1,0 +1,70 @@
+IEEE ISORC 2017 CALL FOR PAPERS 
+
+Fields Institute, Toronto, Canada 
+
+May 16 – 18, 2017
+http://www.isorc2017.org 
+
+**Important Dates** 
+
+            Submission deadline: February 12, 2017 (Extended)
+            Acceptance notification: March 5, 2017
+            Camera-ready papers: March 20, 2017
+
+The best papers from ISORC 2017 will be invited for submission to the ISORC special issue of a suitable IEEE / ACM Journal ISORC has become established as the leading event devoted to state-of-the-art research in the field of object/component/service-oriented real-time distributed computing (ORC) technology. The conference theme for 2017 will be "Scalable, Real Time Analytics". This theme will focus on both:
+
+* Algorithms and Computational Infrastructure to Support Real Time Data Analytics
+
+* Case Studies & Applications in Real Time Data Analytics
+
+In addition to high-quality theoretical papers, we solicit high-quality papers pertaining to the above application domains. We invite original submissions pertaining  to  all  aspects  of  ORC technology and especially those that are well aligned with the 2017 theme. 
+These include, but are not limited to: 
+
+* Programming and system engineering: real-time programming challenges, ORC paradigms, object/component models, languages, synchronous languages, 
+
+* Embedded .NET, RT RMI, RT Java, UML, model-maintenance, system of systems, time-predictable systems and hardware. 
+
+* Distributed computing and communication infrastructures: real-time communication, networked platforms, protocols, Internet QoS, peer-to-peer computing, sensor networks, VANETS and V2V and V2I communication, trusted and dependable systems. 
+
+* Algorithms for Real Time Analytics: clustering and classification approaches, stream processing algorithms, real time decision tree generation and update, real time machine learning, statistical approaches. Approaches related to stream correlation and sampling, etc. 
+
+* System software: real-time kernels and OS, middleware support for ORC, QoS management, extensibility, synchronization, resource allocation, scheduling, fault tolerance, security. 
+
+* Applications: Medical devices, intelligent transportation systems, Industrial automation systems, Internet of Things and Smart Grids, Embedded systems (automotive, avionics, consumer electronics, building systems, sensors, etc), multimedia processing, RT Web-based applications.
+
+* System evaluation: performance analysis, monitoring & timing, dependability, end-to-end QoS, overhead, fault detection and recovery time. 
+
+* Cyber-physical and Cyber-social systems (e.g. social media analytics)
+
+**Guidelines for Manuscripts** 
+
+IEEE ISORC 2017 invites papers in three categories. Submission guidelines for each category of paper are as follows:  
+
+1. Regular Research Papers: Papers should describe original work and be maximum 8 pages in length using the IEEE paper format (https://www.ieee.org/conferences_events/conferences/publishing/templates.html). A maximum of two extra pages may be purchased.  
+
+2. Industrial Papers and Practitioner Reports: Papers describing experiences of using ORC technology in application or tool development projects, are an integral part of the technical program of ISORC. A majority of these papers are expected to be shorter and less formal than research papers. They should clearly identify and discuss in detail the issues that represent notable industrial advances. Reports with project metrics supporting their claims are particularly sought, as well as those that show both benefits and drawbacks of the approaches used in the given project.
+
+3. Short Papers: Short research papers, 4 pages or less using the IEEE format, on real-time analytics are also invited, and should contain enough information for the program committee to understand the scope of the project and evaluate the novelty of the problem or approach.
+
+**Acceptance Criteria** 
+
+According to program committee guidelines, papers presenting practical techniques, ideas, or evaluations will be favored. Papers reporting experimentation results and industrial experiences are particularly welcome. Originality will not be interpreted too narrowly. 
+Papers that are based on severely unrealistic assumptions will not be accepted however mathematically or logically sophisticated the discussion may be. 
+
+**Publication information** 
+
+Papers are to be submitted through the Easychair system. https://easychair.org/conferences/?conf=isorc2017
+All accepted submissions will appear in the proceedings published by IEEE. A person will not be allowed to present more than 2 papers at the symposium. 
+
+**Organizers**
+
+*General Chairs*
+
+Sebastian Fischmeister, University of Waterloo, Canada
+Mathias Pacher, Goethe University Frankfurt am Main, Germany
+
+*PC Chairs*
+
+Omer Rana, Cardiff University, UK
+Aaron Myrick, Aerospace Corporation, USA
+Arvind Easwaran, NTU, Singapore
