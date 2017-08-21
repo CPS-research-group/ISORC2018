@@ -20,6 +20,33 @@ html, body
 	font-size: 24px;
 }
 
+.box1 {
+    box-sizing: border-box;
+    width: 55%;
+    border: 0px solid black;
+    float: left;
+	background:none;
+}
+.box2 {
+    box-sizing: border-box;
+    width: 35%;
+    border: 1px solid black;
+    float: right;
+	background:none;
+	padding: 5px;
+	margin-bottom: 20px;
+	margin-right: 20px;
+}
+.box3 {
+    box-sizing: border-box;
+    width: 35%;
+    border: 1px solid black;
+    float: right;
+	background:none;
+	padding: 5px;
+	margin-bottom: 20px;
+	margin-right: 20px;
+}
 .mainBody
 {
 	width: 1024px;
@@ -80,15 +107,15 @@ html, body
 }
 .contentTitle
 {
-	background-color: #F000B5;
-	color: #FFF;
+	background-color: #f1f7fe;
+	color: #333333;
 	padding-top: 6px;
 	padding-right: 4px;
 	padding-bottom: 6px;
 	padding-left: 10px;
 	margin-top: 10px;
 	margin-bottom: -6px;
-	font-size: 22px;
+	font-size: 26px;
 	font-weight: bold;
 }
 #committeeHeading
