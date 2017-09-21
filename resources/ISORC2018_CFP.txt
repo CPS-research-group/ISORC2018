@@ -77,7 +77,7 @@ of an IEEE / ACM Journal. Papers are to be submitted through the EasyChair syste
 https://easychair.org/conferences/?conf=isorc2018
 					
 All accepted submissions will appear in the proceedings published by IEEE. 
-Each accepted paper shall be accompanied by at least one registration.
+Each accepted paper shall be accompanied by at least one non student conference registration.
 
 Organizing Committee
 ---------------------		
