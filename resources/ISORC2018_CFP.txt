@@ -84,11 +84,11 @@ Organizing Committee
 Arvind Easwaran, Nanyang Technological University, Singapore
 Paul Townend, University of Leeds, UK
 Joel Sherill, OAR Corporation, USA		
+Uwe Brinkschulte, Goethe University Frankfurt am Main, Germany 
+Rob Pettit, The Aerospace Corporation, USA
 Marisol Garcia-Valls, Universidad Carlos III de Madrid, Spain
 Abhishek Dubey, Vanderbilt University, USA
 Qixin Wang, The Hong Kong Polytechnic University, Hong Kong SAR, China
-Uwe Brinkschulte, Goethe University Frankfurt am Main, Germany 
-Rob Pettit, The Aerospace Corporation, USA
 Rui Tan, Nanyang Technological University, Singapore
 Sidharta Andalam, Auckland University of Technology, New Zealand
 
