@@ -135,13 +135,13 @@ html, body
 #commMember
 {
 	float: left;
-	width: 150px;
+	width: 230px;
 	margin-right: 2px;
 	background-color: #E1F0F0;
 }
 #commAffil
 {
-	width: 340px;
+	width: 360px;
 	background-color: #CBE4E4;
 }
 #comSpacer
