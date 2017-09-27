@@ -25,7 +25,7 @@ social cyber-physical systems combining edge, fog, and cloud.
 We solicit high-quality papers pertaining  to all aspects of ORC technology 
 and especially those that are well aligned with the 2018 theme. 
 Authors are encouraged to consider submissions with a practical orientation 
-and validation related to case ttudies & applications in this area. 
+and validation related to case studies & applications in this area. 
 The specific ORC focus areas include,  but are not limited to:	
 
 * Programming and system engineering: real-time programming challenges, 
@@ -47,7 +47,7 @@ The specific ORC focus areas include,  but are not limited to:
 * Applications: Medical devices, intelligent transportation systems, Industrial 
   automation systems and Industry 4.0, Internet of Things and Smart Grids, 
   Embedded systems (automotive, avionics, consumer electronics, building 
-  systems, sensors, etc), multimedia processing, RT Web-based applications.						
+  systems, sensors, etc.), multimedia processing, RT Web-based applications.						
 * System evaluation: performance analysis, monitoring & timing, dependability, 
   end-to-end QoS, overhead, fault detection and recovery time.				
 * Cyber-physical and Cyber-social systems (e.g. social media analytics)
