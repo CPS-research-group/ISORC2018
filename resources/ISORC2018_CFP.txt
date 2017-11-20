@@ -73,8 +73,8 @@ IEEE ISORC 2018 invites papers in three categories.
    the novelty of the problem or approach.
 
 Best papers from ISORC 2018 will be invited for submission to a Special Issue 
-of an IEEE / ACM Journal. Papers are to be submitted through the EasyChair system:			
-https://easychair.org/conferences/?conf=isorc2018
+of Journal of Systems Architecture. The  special issue will be open to general
+ submissions as well. The call for paper is available at https://www.journals.elsevier.com/journal-of-systems-architecture/call-for-papers/special-issues-on-international-symposium-on-real-time-compu. 
 					
 All accepted submissions will appear in the proceedings published by IEEE. 
 Each accepted paper shall be accompanied by at least one non student conference registration.
